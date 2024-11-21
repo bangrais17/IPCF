@@ -1,8 +1,8 @@
-193.239.166.244,443,SG,First Server
-206.206.76.139,443,SG,OVHcloud
-213.35.107.73,443,SG,Oracle Cloud
-5.223.41.42,443,SG,Hetzner Online
-194.36.178.132,443,SG,Neapol Group Ltd
+193.239.166.244,443,🇸🇬,First Server
+206.206.76.139,443,🇸🇬,OVHcloud
+213.35.107.73,443,🇸🇬,Oracle Cloud
+5.223.41.42,443,🇸🇬,Hetzner Online
+194.36.178.132,443,🇸🇬,Neapol Group Ltd
 51.79.158.126,443,SG,OVH Hosting
 188.166.255.195,443,SG,Digital Ocean
 178.128.80.43,443,SG,Digital Ocean
