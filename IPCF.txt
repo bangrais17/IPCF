@@ -1,4 +1,3 @@
-IP,Port,Country,Org
 193.239.166.244,443,SG,First Server
 206.206.76.139,443,SG,OVHcloud
 213.35.107.73,443,SG,Oracle Cloud
@@ -21,8 +20,8 @@ IP,Port,Country,Org
 8.219.1.169,443,SG,Alibaba
 45.77.36.40,443,SG,Vultr
 47.245.95.160,1443,SG,Alibaba
-185.114.78.230,443,US,Aryaka Networks
 152.42.172.170,8443,SG,Digital Ocean
 62.72.46.14,8443,SG,Contabo Asia Private
 206.206.76.208,8443,SG,Regxa Cloud
 8.219.79.88,443,US,Alibaba
+185.114.78.230,443,US,Aryaka Networks
