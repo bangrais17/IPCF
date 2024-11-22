@@ -1,3 +1,4 @@
+🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬🇸🇬
 193.239.166.244,443,SG,First Server
 206.206.76.139,443,SG,OVHcloud
 213.35.107.73,443,SG,Oracle Cloud
@@ -17,3 +18,41 @@
 47.245.95.160,1443,SG,Alibaba
 8.219.79.88,443,US,Alibaba
 185.114.78.230,443,US,Aryaka Networks
+🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵
+52.68.248.185,443,JP,Amazoncom
+5.226.48.84,443,JP,Akari Networks
+219.111.17.202,443,JP,Internet Initiative Japan
+167.179.93.48,443,JP,Vultr
+45.77.130.245,443,JP,Vultr
+45.76.198.248,443,JP,Vultr
+176.97.73.20,443,JP,M247 Europe
+38.180.29.115,443,JP,M247 Europe
+45.137.180.123,443,JP,Akari Networks
+133.167.108.98,443,JP,SAKURA Internet
+158.101.148.105,443,JP,Oracle Cloud
+141.147.184.160,443,JP,Oracle Cloud
+172.104.110.10,443,JP,Akamai Connected Cloud
+3.112.21.102,443,JP,Amazoncom
+217.142.243.226,443,JP,Oracle Cloud
+35.77.126.144,443,JP,Amazoncom
+140.238.33.161,443,JP,Oracle Cloud
+64.176.42.6,443,JP,Vultr
+149.28.21.106,443,JP,Vultr
+80.96.156.113,443,JP,M247 Europe
+54.249.135.43,443,JP,Amazoncom
+5.226.51.247,443,JP,Pasargad Network
+64.110.104.30,443,JP,Oracle Cloud
+18.176.8.247,443,JP,Amazoncom
+168.138.46.67,443,JP,Oracle Cloud
+138.2.56.246,443,JP,Oracle Cloud
+131.186.33.175,443,JP,Oracle Cloud
+150.230.6.108,443,JP,Oracle Cloud
+138.2.21.196,44333,JP,Oracle Cloud
+172.104.100.113,443,JP,Akamai Connected Cloud
+141.147.163.68,443,JP,Oracle Cloud
+141.147.147.180,443,JP,Oracle Cloud
+38.180.28.93,443,JP,M247 Europe
+13.231.218.71,443,JP,Amazoncom
+212.50.253.159,443,JP,IT7 Networks
+150.230.106.97,443,JP,Oracle Cloud
+15.168.47.201,443,JP,Amazoncom
